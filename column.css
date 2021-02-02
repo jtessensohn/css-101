@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    height: 500px;
+}
+
+.column {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.column-1 {
+    background-color: red;
+}
+
+.column-2 {
+    background-color: yellow;
+}
+
+.column-3 {
+    background-color: blue;
+}

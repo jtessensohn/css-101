@@ -1,0 +1,22 @@
+.nav-bar {
+    display: flex;
+    background-color: rgb(97, 139, 228);
+    justify-content: space-between;
+}
+
+.nav-bar-item {
+    color: white;
+    padding: 10px;
+}
+
+.nav-bar-menu {
+    display: flex;
+    list-style-type: none;
+    line-height: 1;
+    margin: 0;
+}
+
+li a {
+    color: white;
+    display: flex;
+}

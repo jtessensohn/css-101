@@ -1,0 +1,15 @@
+.layout {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 20px
+}
+
+.input-container {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.input-addon {
+    background-color: rgb(185, 184, 184);
+    border: none;
+}
